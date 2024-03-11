@@ -1,9 +1,9 @@
 +++
-title = "Chœur de Colombier"
-description = "XXX" 
+title = "Chœur de Colombier - La BARC"
+description = "Le Chœur de Colombier (NE), paroisse de La BARC, compte environ 120 membres et est dirigé par Yves Senn." 
 +++
 
-Le Chœur de Colombier (NE) est dirigé par Yves Senn depuis 2018. Il existe depuis plus de 50 ans et a été difigé par Georges-Henri Pantillon, Marc Pantillon et Olivier Pianaro.
+Le Chœur de Colombier (NE), paroisse de La BARC, est dirigé par Yves Senn depuis 2018. Il compte environ 120 membres. Il existe depuis plus de 50 ans et a notamment été dirigé par Georges-Henri Pantillon, Marc Pantillon et Olivier Pianaro.
 
 ## Prochain concert
 
