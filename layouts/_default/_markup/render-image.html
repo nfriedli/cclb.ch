@@ -1,0 +1,18 @@
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{- if and (not $img) .Page.File -}}
+{{ $path := path.Join .Page.File.Dir .Destination }}
+{{- $img = resources.Get $path -}}
+{{- end -}}
+{{- $large := $img.Resize "1920x webp" -}}
+{{ $medium := $img.Resize "1280x webp" -}}
+{{ $small := $img.Resize "640x webp" -}}
+{{ $img := $img.Resize "1920x" -}}
+<a href="{{ $img.RelPermalink }}">  
+<img 
+    alt="{{ $.Text }}"
+    src="{{ $img.RelPermalink }}" 
+    srcset="{{ $small.RelPermalink }} 640w, {{ $medium.RelPermalink }} 1280w, {{ $large.RelPermalink }} 1920w" 
+      sizes="(max-width: 70ch) 100vw, 70ch"
+      width="{{ $img.Width }}"
+      height="{{ $img.Height }}">
+</a>

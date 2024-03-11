@@ -1,0 +1,13 @@
+baseURL = "https://www.choeurdecolombier.ch/"
+languageCode = "fr"
+title = "Chœur de Colombier"
+
+disableKinds = ["404", "page", "robotstxt", "rss", "section", "sitemap", "taxonomy", "term" ]
+noBuildLock = true
+
+[minify]
+minifyOutput = true
+[minify.tdewolff.html]
+keepDefaultAttrVals = false
+keepQuotes = true
+keepWhitespace = true

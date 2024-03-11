@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ .Description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <style>
+        html {
+            background: #FFF;
+            color: #222;
+            font-family: system-ui, sans-serif;
+            font-size: clamp(1rem, 0.875rem + 0.3125vi, 1.25rem);
+            line-height: 1.5;
+        }
+        body {
+            padding: 1rem;
+            margin: auto;
+            max-width: 70ch;
+        }
+        h1 {
+            font-size: 1.44rem;
+        }
+        h2 {
+            font-size: 1.2rem;
+            margin-top: 2rem;
+        }
+        img {
+            height: auto;
+            max-width: 100%;
+        }
+        a {
+            color: inherit;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </main>
+</body>
+</html>
