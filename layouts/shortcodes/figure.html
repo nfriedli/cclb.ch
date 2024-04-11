@@ -1,0 +1,30 @@
+{{/* https://laurakalbag.com/processing-responsive-images-with-hugo/ */}}
+{{/* https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/ */}}
+
+{{- $imgBase := "images/" -}}
+{{- $src := resources.Get (printf "%s%s" $imgBase (.Get "src")) -}}
+
+{{ .Scratch.Set "tiny" ($src.Fit "480x480") }}
+{{ .Scratch.Set "small" ($src.Fit "640x640") }}
+{{ .Scratch.Set "medium" ($src.Fit "960x960") }}
+{{ .Scratch.Set "large" ($src.Fit "1280x1280") }} 
+{{ .Scratch.Set "huge" ($src.Fit "1920x1920 ") }}
+
+{{ $tiny := .Scratch.Get "tiny" }}
+{{ $small := .Scratch.Get "small" }}
+{{ $medium := .Scratch.Get "medium" }}
+{{ $large := .Scratch.Get "large" }}
+{{ $huge := .Scratch.Get "huge" }}
+
+<figure>
+    <img 
+    srcset="{{ $tiny.RelPermalink }} {{ $tiny.Width }}w
+            {{- if gt $small.Width $tiny.Width}}, {{ $small.RelPermalink }} {{ $small.Width }}w{{ end }}
+            {{- if gt $medium.Width $small.Width}}, {{ $medium.RelPermalink }} {{ $medium.Width }}w{{ end }}
+            {{- if gt $large.Width $small.Width}}, {{ $large.RelPermalink }} {{ $large.Width }}w{{ end }}
+            {{- if gt $huge.Width $large.Width}}, {{ $huge.RelPermalink }} {{ $huge.Width }}w{{ end }}"
+    sizes="(min-width: 70ch) 70ch, 100vw"
+    src="{{ $medium.RelPermalink }} " width="{{ $medium.Width }}" height="{{ $medium.Height }}"
+    {{ with .Get "alt" }}alt="{{.}}"{{ end }}
+    loading="lazy" decoding="async" >
+</figure>
