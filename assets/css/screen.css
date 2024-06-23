@@ -18,10 +18,6 @@ header, main, footer {
     padding: 1rem;
 }
 
-header, footer {
-    font-size: 90%;
-}
-
 body > *+* {
     margin-block: 1rem;
 }
