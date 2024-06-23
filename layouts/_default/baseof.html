@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ $screen := resources.Get "css/screen.css" }}
+    <style media="screen">{{ $screen.Content | safeCSS }}</style>
+
+    {{ with .Params.description }}
+        <meta name="description" content="{{ . }}">
+    {{ end }}
+    
+    <script defer data-domain="cclb.ch" src="https://plausible.io/js/script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="sitetitle">{{ site.Title }}</div>
+        <nav>
+            {{ $current := .RelPermalink}}
+            {{ range site.Menus.main }}
+                {{ if eq .URL $current }}
+                    {{ .Name }}
+                {{ else }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            {{ end }}
+        </nav>
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <p><strong>Contact:</strong> May Deroche, présidente, <a href="mailto:choeurcolombier@bluewin.ch">choeurcolombier@bluewin.ch</a></p>
+    </footer>
+</body>
+</html>

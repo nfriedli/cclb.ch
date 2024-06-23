@@ -1,19 +1,19 @@
 +++
 title = "Chœur de Colombier - La BARC"
-description = "Le Chœur de Colombier (NE), paroisse de La BARC, compte environ 120 membres et est dirigé par Yves Senn." 
+linkTitle = "Accueil"
+menu = "main"
+weight = 10
 +++
 
-Le Chœur de Colombier (NE), paroisse de La BARC, est fort d'une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro. Yves Senn en a repris la direction en décembre 2008.
-
-Le Chœur s’est déplacé à Dijon, Tournus, Hombrechtikon, Genève, Fribourg, Lausanne, Soleure, Bienne, Pontarlier, en Ardèche, à Nîmes et à Beaune. A chaque fois, il s’est produit soit lors d’un culte, d’une messe ou sur une scène locale comme à Beaune en 2012 à la toute nouvelle salle de la Lanterne magique.
-
-Il a collaboré à plusieurs reprises avec le Chœur Mixte «La Campanelle» de Pontarlier ainsi qu’avec le Chœur des Rameaux de La Chaux-de-Fonds
-
-Il compte actuellement quelque 120 membres.
+Le Chœur de Colombier est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
 
 {{< figure src="choeur-colombier-mai-2022.jpg" alt="Chœur de Colombier (mai 2022)" >}}
 
-## Contact
+Les œuvres interprétées sous sa direction furent la Messe de minuit de Charpentier, l’Oratorio de Noël de C. Saint-Saëns, les Cantates BWB 12 et 131 de J.-S. Bach, le Stabat Mater de Vivaldi, Le Pèlerinage de la Rose de Schumann, la Messa di Gloria de Puccini, la Messe du Couronnement de W.-A. Mozart, le Stabat Mater de J. Haydn, le Gloria de Vivaldi, la Messe en ut de Schubert et le Requiem de W.-A. Mozart.
 
-May Deroche, présidente  
-[choeurcolombier@bluewin.ch](mailto:choeurcolombier@bluewin.ch)  
+Le Chœur de Colombier s’est déplacé à Dijon, Tournus, Hombrechtikon, Genève, Fribourg, Lausanne, Soleure, Bienne, Pontarlier, en Ardèche, à Nîmes et à Beaune. A chaque fois le chœur s’est produit soit lors d’un culte, d’une messe ou sur une scène locale comme à Beaune en 2012 à la toute nouvelle salle de la Lanterne magique.
+
+Il a également collaboré à plusieurs reprises avec le Chœur Mixte «La Campanelle» de Pontarlier ainsi qu’avec le Chœur des Rameaux de La Chaux-de-Fonds
+
+Le chœur compte actuellement quelque 120 membres.
+

@@ -1,0 +1,62 @@
+html {
+    background: #f8f8f8;
+    color: #333;
+    font-family: ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    padding: .5rem
+}
+body {
+
+    margin: auto;
+    max-width: 70ch;
+}
+
+header, main, footer {
+    background: #FFF;
+    border: 2px solid #EEE;
+    padding: 1rem;
+}
+
+header, footer {
+    font-size: 90%;
+}
+
+body > *+* {
+    margin-block: 1rem;
+}
+
+.sitetitle {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+main > *+* {
+    margin-block: 1rem;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+figure {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 0;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+a {
+    color: inherit;
+}

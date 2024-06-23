@@ -1,8 +1,8 @@
 baseURL = "https://cclb.ch/"
 languageCode = "fr"
-title = "Chœur de Colombier"
+title = "Chœur de Colombier - La BARC"
 
-disableKinds = ["404", "page", "robotstxt", "rss", "section", "sitemap", "taxonomy", "term" ]
+disableKinds = ["404", "robotstxt", "rss", "section", "sitemap", "taxonomy", "term" ]
 noBuildLock = true
 
 [minify]
