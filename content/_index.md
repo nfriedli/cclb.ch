@@ -1,5 +1,5 @@
 +++
-title = "Chœur de Colombier - La BARC"
+title = "Chœur de Colombier-La BARC"
 linkTitle = "Accueil"
 menu = "main"
 weight = 10

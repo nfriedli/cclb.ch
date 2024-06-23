@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }}</title>
+    <title>
+        {{ if .IsHome }}{{ site.Title }}
+        {{ else }} {{ .Title }} - {{ site.Title }}{{ end }}
+    </title>
     <link rel="canonical" href="{{ .Permalink }}">
 
     {{ $screen := resources.Get "css/screen.css" }}
@@ -35,7 +38,7 @@
     </main>
 
     <footer>
-        <p><strong>Contact:</strong> May Deroche, présidente, <a href="mailto:choeurcolombier@bluewin.ch">choeurcolombier@bluewin.ch</a></p>
+        <p><strong>Contact:</strong> May Deroche, présidente, <a href="mailto:choeurcolombier@bluewin.ch">choeurcolombier@bluewin.ch</a>, <a href="tel:+41786002280">+41 78 600 22 80</a></p>
     </footer>
 </body>
 </html>

@@ -73,7 +73,7 @@ Je suis flatté.
 
 Ca doit devenir immense, immense, IMMENSE.
 
-Pour le Lacrimosa, je vous vois venir : vous allez pleurer avant de chanter.
+Pour le Lacrimosa, je vous vois venir: vous allez pleurer avant de chanter.
 
 J’ai vu des gens qui lisaient le journal alors que vous savez toutes ces paroles.
 
@@ -99,7 +99,7 @@ C’est magnifique, vous devriez toutes et tous être moniales et moines!
 
 Les basses, vous faites les cloches... mais c’est votre spécialité. Les ténors, vous faites un peu trop salami!
 
-Les alti, chantez des "piano" vivants!
+Les alti, chantez des «piano» vivants!
 
 Ca fait car postal, puis plus encore carte postale!
 
@@ -115,7 +115,7 @@ Faites les cloches - il y a des années que vous y excellez!
 
 Quand vous prenez conscience de l’immense talent que vous possédez, vous avez tendance à oublier les autres!
 
-Ca fait dix ans que je suis au chœur de Colombier et plus je vois dans les yeux de Lucien qu’il ne me croit plus. Il pense: "Cause toujours chef"!
+Ca fait dix ans que je suis au chœur de Colombier et plus je vois dans les yeux de Lucien qu’il ne me croit plus. Il pense: «Cause toujours chef»!
 
 Je fais encore une fois ce passage pour qu’il vous reste bien dans le cactus - Il y a vraiment des soirées épineuses!
 
@@ -135,7 +135,7 @@ Vous savez que Dieu était marié? Bien sûr, puisqu’on parle toujours de la C
 
 La musique était bien, mais maintenant il faut apprendre à lire les paroles... ce sera mieux pour le concert!
 
-Les basses, reprenez à "Ro"... Paul-Henri ne veut pas faire son petit rot... Allons, toutes les basses!
+Les basses, reprenez à «Ro»... Paul-Henri ne veut pas faire son petit rot... Allons, toutes les basses!
 
 Je vous sens suer un peu... mais c’est bien!
 
@@ -151,7 +151,7 @@ Si on pouvait avoir un gratias un peu plus gracieux et moins graisseux...
 
 Je fais le singe devant vous mais ça en vaut la peine!
 
-Il y a quatre types de choristes : Celui qui réussit, celui qui essaie, n’y arrive pas et fait faux, celui qui regarde à gauche et à droite et... celui qui se marre!
+Il y a quatre types de choristes: Celui qui réussit, celui qui essaie, n’y arrive pas et fait faux, celui qui regarde à gauche et à droite et... celui qui se marre!
 
 Les ténors, quand ils chantent, ils sont très beaux... et ça passe!
 
@@ -205,13 +205,13 @@ Soprani, vous êtes descendues. Ah, c’est Madeleine! Donc, une coche à Madele
 
 Le début doit être très allant, sinon la chorégraphie de Gisèle ne va pas jouer...
 
-A force de le répéter depuis des années, j’obtiens maintenant des "Kyrié éléisson", mais j’ai encore des anarchistes qui chantent "Kyriè èlèisson"!
+A force de le répéter depuis des années, j’obtiens maintenant des «Kyrié éléisson», mais j’ai encore des anarchistes qui chantent «Kyriè èlèisson»!
 
 C’est comme ça que je vous aime, quand on ne vous entend pas... mais dans le cas présent, il faut donner de la voix!
 
 On m’a toujours dit que les femmes pouvaient faire deux choses à la fois, alors tournez la page en chantant!
 
-Ca, c’est holywoodien; souvenez-vous de la première fois que vous m’avez vu : "OUAH!"
+Ca, c’est holywoodien; souvenez-vous de la première fois que vous m’avez vu: «OUAH!»
 
 Eh, les alti, il y avait du courage et de l’entrain, mais pas grand chose d’autre... Les soprani, il y avait de l’enthousiasme!
 
@@ -259,13 +259,13 @@ Ayez l’air benêt et chantez avec une patate très chaude dans la bouche.
 
 Quand je vois les yeux exorbités de 80 hystériques devant moi, je suis content.
 
-Comme tous les chœurs du monde, vous ralentissez quand vous faites "un piano". Je suis quand même un peu déçu, je vous croyais plus exceptionnels!
+Comme tous les chœurs du monde, vous ralentissez quand vous faites «un piano». Je suis quand même un peu déçu, je vous croyais plus exceptionnels!
 
 La semaine passée, je n’étais pas là, vous étiez silencieux, j’ai de la peine à le croire.
 
 Chaque matin, quand je me regarde dans le miroir, je me dis que je suis quand même un type bien.
 
-Ce n’est pas un "piano" vide, il doit être solennel et noble.
+Ce n’est pas un «piano» vide, il doit être solennel et noble.
 
 Quand il y a des croches, j’ai l’impression que vous savez moins bien l’allemand.
 
@@ -293,7 +293,7 @@ Chanter en allemand... Peu importe la consonne, vous devez l’éternuer!
 
 Je ne sais pas pourquoi je fais des pièces comme celle-lá, après je palpite...
 
-Comme l’a dit Lucien : "Ça viendra!"
+Comme l’a dit Lucien: «Ça viendra!»
 
 C’est un peu la chorale des asthmatiques...
 
@@ -307,7 +307,7 @@ Nous, on prépare le tremplin, et c’est aux soprani de sauter!
 
 Là, on dirait un vieux 33 tours...
 
-Cette note, je l’appelle "Albert". Je vous dit "Albert", et vous la chantez!
+Cette note, je l’appelle «Albert». Je vous dit «Albert», et vous la chantez!
 
 Inutile de dire que je divise les quatre premières mesures de façon anarchique!
 
@@ -349,7 +349,7 @@ Je dirais que... le texte était juste!
 
 Ces notes, ça colle, c’est comme si on avait oublié de farter.
 
-Vous tenez trop longtemps "la poussière" les altos! Je sais que c’est votre vocation, mais tout de même!
+Vous tenez trop longtemps «la poussière» les altos! Je sais que c’est votre vocation, mais tout de même!
 
 Vous ne sortirez pas vivants de ce temple, tant que vous ne le saurez pas!
 
@@ -361,11 +361,11 @@ Soyez dansants! Si ça ne vient pas, je vous mets tous en tutu!
 
 Parfois je me trompe exprès pour voir si quelqu’un ose me contredire.
 
-Ce "i" a une insistance égalée uniquement par la fraise de mon dentiste...
+Ce «i» a une insistance égalée uniquement par la fraise de mon dentiste...
 
 Pour l’instant, on dirait qu’on lit le menu du jour...
 
-On était là à la limite inférieure du "bien"
+On était là à la limite inférieure du «bien»
 
 Ne perdez pas de temps en bavardages, la pause est en jeu!
 
@@ -375,9 +375,9 @@ L’intelligence des chanteurs est dans les abdos!
 
 Soulignez cette phrase avec un effort abdominal à hauteur de votre musculature!
 
-J’allais dire "excusez-moi"... Mais vous savez qu’un chef ne présente jamais d’excuses!
+J’allais dire «excusez-moi»... Mais vous savez qu’un chef ne présente jamais d’excuses!
 
-Bernard et moi, nous sommes comme un vieux couple. Il a toujours le dernier mot : "oui chef!"
+Bernard et moi, nous sommes comme un vieux couple. Il a toujours le dernier mot: «oui chef!»
 
 Loin de moi l’idée de vous faire des compliments!
 
@@ -447,4 +447,4 @@ Ne pas trop vous faire de compliments, après vous mettez de la fantaisie…
 
 Chantez le deuxième miserere comme lorsque vous me suppliez d’avoir une pause...
 
-Les alti, faites un effort surhumain : souriez!
+Les alti, faites un effort surhumain: souriez!
