@@ -4,11 +4,11 @@
 {{- $imgBase := "images/" -}}
 {{- $src := resources.Get (printf "%s%s" $imgBase (.Get "src")) -}}
 
-{{ .Scratch.Set "tiny" ($src.Fit "480x480") }}
-{{ .Scratch.Set "small" ($src.Fit "640x640") }}
-{{ .Scratch.Set "medium" ($src.Fit "960x960") }}
-{{ .Scratch.Set "large" ($src.Fit "1280x1280") }} 
-{{ .Scratch.Set "huge" ($src.Fit "1920x1920 ") }}
+{{ .Scratch.Set "tiny" ($src.Resize "480x") }}
+{{ .Scratch.Set "small" ($src.Resize "640x") }}
+{{ .Scratch.Set "medium" ($src.Resize "960x") }}
+{{ .Scratch.Set "large" ($src.Resize "1280x") }} 
+{{ .Scratch.Set "huge" ($src.Resize "1920x") }}
 
 {{ $tiny := .Scratch.Get "tiny" }}
 {{ $small := .Scratch.Get "small" }}
