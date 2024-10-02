@@ -9,7 +9,7 @@ Le Chœur de Colombier est fort d’une existence de plus de 50 ans. Il a trava
 
 ## Prochain concert
 
-{{< figure src="novembre-2024.jpg" alt="Concert de novembre 2024" >}}
+{{< figure src="novembre-2024-v2.jpg" alt="Concert de novembre 2024" >}}
 
 **Réservations dès le 6 novembre**  
 Mercerie «Au Petit Bonheur»  
