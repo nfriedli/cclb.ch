@@ -53,6 +53,13 @@ img {
     height: auto;
     max-width: 100%;
 }
+
+li {
+    margin-block: .5rem;
+}
+
 a {
     color: inherit;
+    text-decoration-thickness: .2ch;
+    text-underline-offset: .2ch;
 }
