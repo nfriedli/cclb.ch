@@ -7,6 +7,15 @@ weight = 10
 
 Le Chœur de Colombier est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
 
+## Prochain concert
+
+{{< figure src="mars-2025.jpg" alt="Concert de mars 2025. La Passion selon Saint-Jean de Jean-Sébastien Bach." >}}
+
+**Réservations dès le 12 mars 2025**  
+Mercerie «Au Petit Bonheur»  
+Rue Haute 16, 2013 Colombier  
+[032 841 24 94](tel:+41328412494)
+
 ## Le Chœur
 
 {{< figure src="choeur-colombier-mai-2022.jpg" alt="Chœur de Colombier (mai 2022)" >}}
