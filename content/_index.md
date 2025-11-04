@@ -5,11 +5,26 @@ menu = "main"
 weight = 10
 +++
 
-Le Chœur de Colombier est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
+Le Chœur de Colombier-La BARC est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
+
+## Prochains concerts
+
+{{< figure src="decembre-2025.jpg" alt="Concert de décembre 2025: une nuit à l’opéra" >}}
+
+L’[Ensemble Instrumental Neuchâtelois](https://ein-ne.ch/) et le Chœur de Colombier-La BARC vous invitent à un voyage au cœur de l’opéra italien:
+
+- samedi 13 décembre 2025 à 20h00 au Temple du Bas (Neuchâtel)
+- dimanche 14 décembre 2025 à 17h00 au Temple du Bas (Neuchâtel)
+
+De Bellini à Puccini, en passant par Verdi, ce programme rend hommage aux maîtres de l’opéra romantique italien.
+
+Vous y entendrez des airs et chœurs tirés de leurs œuvres les plus célèbres: Norma, La Sonnambula, I Puritani, Nabucco, Rigoletto, La Traviata, Il Trovatore, Aida, La Bohème, Madama Butterfly, Tosca...
+
+Des mélodies tour à tour tendres, héroïques ou passionnées, où s’exprime tout le charme et la puissance du lyrisme italien.
 
 ## Le Chœur
 
-{{< figure src="choeur-colombier-octobre-2025.jpg" alt="Chœur de Colombier (octobre 2025)" >}}
+{{< figure src="choeur-colombier-octobre-2025.jpg" alt="Chœur de Colombier-La BARC (octobre 2025)" >}}
 
 Les œuvres interprétées sous sa direction furent la *Messe de minuit* de Charpentier, l’*Oratorio de Noël* de C. Saint-Saëns, les Cantates BWV 12 et 131 de J.-S. Bach, le *Stabat Mater* de Vivaldi, *Le Pèlerinage de la Rose* de Schumann, la *Messa di Gloria* de Puccini, la *Messe du Couronnement* de W.-A. Mozart, le *Stabat Mater* de J. Haydn, le *Gloria* de Vivaldi, la *Messe en ut* de Schubert et le *Requiem* de W.-A. Mozart.
 
@@ -18,4 +33,3 @@ Le Chœur de Colombier s’est déplacé à Dijon, Tournus, Hombrechtikon, Genè
 Il a également collaboré à plusieurs reprises avec le Chœur mixte «La Campanelle» de Pontarlier ainsi qu’avec le Chœur des Rameaux de La Chaux-de-Fonds
 
 Le chœur compte actuellement quelque 100 membres.
-
