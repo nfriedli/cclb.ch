@@ -16,6 +16,8 @@ L’[Ensemble Instrumental Neuchâtelois](https://ein-ne.ch/) et le Chœur de Co
 - samedi 13 décembre 2025 à 20h00 au Temple du Bas (Neuchâtel)
 - dimanche 14 décembre 2025 à 17h00 au Temple du Bas (Neuchâtel)
 
+**Concerts sans réservations!**
+
 De Bellini à Puccini, en passant par Verdi, ce programme rend hommage aux maîtres de l’opéra romantique italien.
 
 Vous y entendrez des airs et chœurs tirés de leurs œuvres les plus célèbres: Norma, La Sonnambula, I Puritani, Nabucco, Rigoletto, La Traviata, Il Trovatore, Aida, La Bohème, Madama Butterfly, Tosca...
