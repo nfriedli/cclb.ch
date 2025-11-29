@@ -11,6 +11,8 @@ name = "Accès membres"
 url = "https://www.dropbox.com/scl/fo/sefnhp1c7fijl4frd8snp/AK7UV_BOFCdsZbJeO80gwu0?rlkey=p9syh73jk3ezdnnujh120yuki&st=uqv6kztr&dl=0"
 weight = 100
 
+[markup.goldmark.parser.attribute]
+block = true
 
 [minify]
 minifyOutput = true
