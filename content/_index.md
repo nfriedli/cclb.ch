@@ -7,24 +7,6 @@ weight = 10
 
 Le Chœur de Colombier-La BARC est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
 
-## Prochains concerts
-
-{{< figure src="decembre-2025.jpg" alt="Concert de décembre 2025: une nuit à l’opéra" >}}
-
-L’[Ensemble Instrumental Neuchâtelois](https://ein-ne.ch/) et le Chœur de Colombier-La BARC vous invitent à un voyage au cœur de l’opéra italien:
-
-- samedi 13 décembre 2025 à 20h00 au Temple du Bas (Neuchâtel)
-- dimanche 14 décembre 2025 à 17h00 au Temple du Bas (Neuchâtel)
-
-Concerts sans réservations!
-{.information}
-
-De Bellini à Puccini, en passant par Verdi, ce programme rend hommage aux maîtres de l’opéra romantique italien.
-
-Vous y entendrez des airs et chœurs tirés de leurs œuvres les plus célèbres: Norma, La Sonnambula, I Puritani, Nabucco, Rigoletto, La Traviata, Il Trovatore, Aida, La Bohème, Madama Butterfly, Tosca...
-
-Des mélodies tour à tour tendres, héroïques ou passionnées, où s’exprime tout le charme et la puissance du lyrisme italien.
-
 ## Le Chœur
 
 {{< figure src="choeur-colombier-octobre-2025.jpg" alt="Chœur de Colombier-La BARC (octobre 2025)" >}}
