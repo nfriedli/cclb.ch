@@ -39,12 +39,13 @@ main > *+* {
 }
 
 h1 {
-    font-size: 1.69em;
+    font-size: 1.8em;
     margin: 0;
 }
 
 h2 {
-    font-size: 1.3rem
+    font-size: 1.4rem;
+    margin-block: 2rem 1rem;
 }
 
 figure {

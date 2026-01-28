@@ -7,6 +7,15 @@ weight = 10
 
 Le Chœur de Colombier-La BARC est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
 
+## Prochains concerts
+
+{{< figure src="verdi-2026.jpg" alt="Requiem de Verdi" >}}
+
+- mardi 31 mars 2026 à 19h30 au Temple du Bas (Neuchâtel)
+- mercredi 1er avril 2026 à 19h30 au Temple du Bas (Neuchâtel)
+
+Billetterie: Le Strapontin, <billetterie@theatredupassage.ch>, [+41 32 717 79 07](tel:+41327177907)  
+
 ## Le Chœur
 
 {{< figure src="choeur-colombier-octobre-2025.jpg" alt="Chœur de Colombier-La BARC (octobre 2025)" >}}
