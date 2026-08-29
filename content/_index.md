@@ -15,6 +15,6 @@ Les œuvres interprétées sous sa direction furent la *Messe de minuit* de Char
 
 Le Chœur de Colombier s’est déplacé à Dijon, Tournus, Hombrechtikon, Genève, Fribourg, Lausanne, Soleure, Bienne, Pontarlier, en Ardèche, à Nîmes et à Beaune. À chaque fois le chœur s’est produit soit lors d’un culte, d’une messe ou sur une scène locale comme à Beaune en 2012 à la toute nouvelle salle de la Lanterne magique.
 
-Il a également collaboré à plusieurs reprises avec le Chœur mixte «La Campanelle» de Pontarlier ainsi qu’avec le Chœur des Rameaux de La Chaux-de-Fonds
+Il a également collaboré à plusieurs reprises avec le Chœur mixte «La Campanelle» de Pontarlier ainsi qu’avec le Chœur des Rameaux de La Chaux-de-Fonds
 
 Le chœur compte actuellement quelque 100 membres.

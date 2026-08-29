@@ -1,5 +1,6 @@
 baseURL = "https://cclb.ch/"
-languageCode = "fr"
+locale = "fr"
+defaultContentLanguage = "fr"
 title = "Chœur de Colombier-La BARC"
 
 disableKinds = ["404", "robotstxt", "rss", "section", "taxonomy", "term" ]

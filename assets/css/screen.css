@@ -1,24 +1,26 @@
 html {
-    background: #f8f8f8;
+    background: #EEE;
     color: #333;
-    font-family: ui-sans-serif, "Roboto", "Inter", "Arial", system-ui, sans-serif;
-    font-size: 106.25%;
+    font-family: "Fira Sans", "Geist", ui-sans-serif, "Roboto", "Inter", "Aptos", "Arial", system-ui, sans-serif;
+    font-size: 112.5%;
     line-height: 1.5;
     padding: .5rem
 }
-body {
 
+body {
     margin: auto;
     max-width: 70ch;
 }
 
-header, main, footer {
+header,
+main,
+footer {
     background: #FFF;
-    border: 2px solid #EEE;
+    border: 2px solid #DDD;
     padding: 1rem;
 }
 
-body > *+* {
+body>*+* {
     margin-block: 1rem;
 }
 
@@ -34,18 +36,21 @@ nav {
     margin-top: 1rem;
 }
 
-main > *+* {
+main>*+* {
+    margin-block: 1rem;
+}
+
+h1,
+h2 {
     margin-block: 1rem;
 }
 
 h1 {
-    font-size: 1.8em;
-    margin: 0;
+    font-size: 2em;
 }
 
 h2 {
-    font-size: 1.4rem;
-    margin-block: 2rem 1rem;
+    font-size: 1.8rem;
 }
 
 figure {
@@ -78,4 +83,36 @@ a {
     padding: .5rem;
     text-align: center;
     text-transform: uppercase;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/fira-sans-v18-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/fira-sans-v18-latin-italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/fira-sans-v18-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/fonts/fira-sans-v18-latin-700italic.woff2") format("woff2");
 }
