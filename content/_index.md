@@ -7,6 +7,19 @@ weight = 10
 
 Le Chœur de Colombier-La BARC est fort d’une existence de plus de 50 ans. Il a travaillé sous la direction de plusieurs chefs, dont Georges-Henri Pantillon, Marc Pantillon, Olivier Pianaro pour ne citer qu’eux. Yves Senn en a repris la direction en décembre 2008.
 
+## Prochains concerts
+
+{{< figure src="decembre-2026.jpg" alt="Grande messe en ut de Mozart & Credo de Vivaldi" >}}
+
+- vendredi 4 décembre 2026 à 19h30 au Temple de Colombier
+- samedi 5 décembre 2026 à 19h30 au Temple de Colombier
+- dimanche 6 décembre à 17h00 au Temple de Colombier
+
+**Réservations dès le 18 novembre 2026**  
+Mercerie «Au Petit Bonheur»  
+Rue Haute 16, 2013 Colombier  
+[032 841 24 94](tel:+41328412494)
+
 ## Le Chœur
 
 {{< figure src="choeur-colombier-octobre-2025.jpg" alt="Chœur de Colombier-La BARC (octobre 2025)" >}}
